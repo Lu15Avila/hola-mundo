@@ -2,4 +2,4 @@
 Mi primer repositorio de prueba.
 
 Autor: Luis A.
-fehca 10/02/2022
+fecha: 10/02/2022
